@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: Update segment review as a translator" errors="0" tests="1" failures="0" time="0.035" timestamp="2015-12-02T13:38:09">
+  <testcase classname="Frisby Test: Update segment review as a translator" name="
+	[ PUT http://localhost:9000/api/v1/productivityProject/2477/task/5133/segment/761532/review/61?errorLevel1Id=1&amp;errorLevel2Id=1&amp;severity=minor&amp;kudos=false&amp;comment=updated%20review&amp;time=10000&amp;characterPosStart=10&amp;characterPosEnd=20&amp;editedText=test%20edited%20text ]" time="0.035"></testcase>
+</testsuite>
+</testsuites>
