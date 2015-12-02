@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: Update the translator of a task" errors="0" tests="1" failures="0" time="0.015" timestamp="2015-12-02T13:38:09">
+  <testcase classname="Frisby Test: Update the translator of a task" name="
+	[ PUT http://localhost:9000/api/v1/productivityProject/2476/task/5134/translator?translatorid=2119 ]" time="0.015"></testcase>
+</testsuite>
+</testsuites>
